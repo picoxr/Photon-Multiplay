@@ -6,6 +6,7 @@
 
 - Unity 2020.3.18f1
 - Pico UnityXR platform SDK v1.2.4
+- Pico Neo 3, Pico Neo 2
 
 ## Description：
 
