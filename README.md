@@ -8,6 +8,11 @@
 - Pico UnityXR platform SDK v1.2.4
 - Pico Neo 3, Pico Neo 2
 
+## Applicable devices:
+
+- Neo 3 series
+- Neo 2 series
+
 ## Description：
 
 - This demo shows how to implement multiplay features using photon game service.
