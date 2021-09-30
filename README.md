@@ -10,3 +10,5 @@
 ## Description：
 
 - This demo shows how to implement multiplay features using photon game service.
+
+![Screenshot_com.Pico.PhotonMultiplayerDemo_2021.09.30-13.10.13](https://github.com/picoxr/Photon-Multiplay/blob/main/ScreenShot/Screenshot_com.Pico.PhotonMultiplayerDemo_2021.09.30-13.10.13.jpeg)
